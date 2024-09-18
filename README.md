@@ -1,5 +1,4 @@
 # MyImportants
-============================================================================================
 
 # SF_PR001
 
@@ -19,5 +18,3 @@ To use this component, include it in your Lightning page and pass the `recordId`
 ```html
 <c-account-custom-field record-id="001XXXXXXXXXXXXXXX"></c-account-custom-field>
 ```
-
-============================================================================================
